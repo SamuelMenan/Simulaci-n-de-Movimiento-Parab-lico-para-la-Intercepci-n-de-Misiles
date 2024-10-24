@@ -30,4 +30,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 - Julio Esteban Bolaños Benavides
 
 ## Agradecimientos
-- Este proyecto fue realizado como parte de un proyecto académico en la Universidad Cooperativa de Colombia.
+- Este proyecto fue realizado como parte de un proyecto académico en la [Universidad Cooperativa de Colombia.](https://ucc.edu.co/)
