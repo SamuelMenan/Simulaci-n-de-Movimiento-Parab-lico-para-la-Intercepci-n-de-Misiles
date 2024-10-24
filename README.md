@@ -27,7 +27,6 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 - Juan José Enríquez Córdoba
 - Samuel Esteban Mena Pupiales
 - Santiago Bustos López
-- Khaled Santiago Benavides
 
 ## Agradecimientos
 - Este proyecto fue realizado como parte de un proyecto académico en la [Universidad Cooperativa de Colombia.](https://ucc.edu.co/)
